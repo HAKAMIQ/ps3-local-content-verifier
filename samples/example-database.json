@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "source": "user-supplied",
+  "entries": [
+    {
+      "titleId": "BLUS00000",
+      "name": "Example Title",
+      "contentType": "Game",
+      "region": "US",
+      "version": "01.00",
+      "size": 0,
+      "md5": "",
+      "sha1": "",
+      "sha256": ""
+    }
+  ]
+}
